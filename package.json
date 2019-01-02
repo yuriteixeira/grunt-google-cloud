@@ -3,6 +3,9 @@
   "description": "A Grunt plugin which acts as a wrapper for google-cloud.",
   "version": "2.0.0",
   "homepage": "https://github.com/yuriteixeira/grunt-google-cloud",
+  "publishConfig": {
+    "access": "public"
+  },
   "author": {
     "name": "Luke Bussey",
     "email": "luke.bussey@gmail.com"

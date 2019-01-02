@@ -1,18 +1,22 @@
 {
-  "name": "grunt-google-cloud",
+  "name": "@yuriteixeira/grunt-google-cloud",
   "description": "A Grunt plugin which acts as a wrapper for google-cloud.",
   "version": "1.0.7",
-  "homepage": "https://github.com/lukebussey/grunt-google-cloud",
+  "homepage": "https://github.com/yuriteixeira/grunt-google-cloud",
   "author": {
     "name": "Luke Bussey",
     "email": "luke.bussey@gmail.com"
   },
+  "contributors": [{
+    "name": "Yuri Teixeira",
+    "email": "oyuriteixeira [et] gmail [dt] com"
+  }],
   "repository": {
     "type": "git",
-    "url": "https://github.com/lukebussey/grunt-google-cloud.git"
+    "url": "https://github.com/yuriteixeira/grunt-google-cloud.git"
   },
   "bugs": {
-    "url": "https://github.com/lukebussey/grunt-google-cloud/issues"
+    "url": "https://github.com/yuriteixeira/grunt-google-cloud/issues"
   },
   "license": "MIT",
   "scripts": {},
